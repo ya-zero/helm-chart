@@ -1,9 +1,9 @@
 apiVersion: v1
 entries:
-  App-HelmChart:
+  app-helmchart:
   - apiVersion: v2
     appVersion: 1.2.3
-    created: "2022-02-09T11:54:17.938626605Z"
+    created: "2022-02-09T12:29:50.579275274Z"
     description: My Helm chart for Kubernetes
     digest: 875ed57fc867881bf13c6612a9171424b270f77f6927bde1cbe91144bddc6fbb
     keywords:
@@ -15,9 +15,9 @@ entries:
     - email: yazero@yandex.ru
       name: alexander voznyy
       url: ya-zero.github.io
-    name: App-HelmChart
+    name: app-helmchart
     type: application
     urls:
     - https://ya-zero.github.io/helm-chart/App-HelmChart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-02-09T11:54:17.937971248Z"
+generated: "2022-02-09T12:29:50.578861853Z"
