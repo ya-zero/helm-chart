@@ -1,0 +1,7 @@
+
+container:
+  image: yazerohub/my_flask_app:latest
+
+replicaCount: 2
+
+  
