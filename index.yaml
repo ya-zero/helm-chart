@@ -18,6 +18,6 @@ entries:
     name: App-HelmChart
     type: application
     urls:
-    - https://ya-zero.github.io/helm-chart/App-HelmChart-0.1.0.tgz
+    - https://github.com/ya-zero/helm-chart/blob/main/App-HelmChart-0.1.0.tgz
     version: 0.1.0
 generated: "2022-02-09T10:35:17.533554502Z"
