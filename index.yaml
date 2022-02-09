@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  App-HelmChart:
+  - apiVersion: v2
+    appVersion: 1.2.3
+    created: "2022-02-09T10:35:17.534100165Z"
+    description: My Helm chart for Kubernetes
+    digest: d28c3f7714f700616e521e9b112baaed32d157eec7766d5156b3fc9805b820be
+    keywords:
+    - apache
+    - http
+    - https
+    - denisastahov
+    maintainers:
+    - email: yazero@yandex.ru
+      name: alexander voznyy
+      url: ya-zero.github.io
+    name: App-HelmChart
+    type: application
+    urls:
+    - https://github.com/ya-zero/helm-chart/App-HelmChart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-02-09T10:35:17.533554502Z"
