@@ -14,4 +14,4 @@ spec:
       protocol  : TCP
       port      : 5000  # Port on Load Balancer
       targetPort: 5000  # Port on POD
-  type: LoadBalancer
+  type: ClusterIP
